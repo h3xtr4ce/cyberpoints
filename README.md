@@ -5,6 +5,7 @@
 </h1>
 <h4 align="center">Awesome Endpoints For Developers</h4>
 <p align="center">
+  <a><img src="https://img.shields.io/circleci/build/github/kendinikertenkelebek/cyberpoints/master?style=flat-square" alt="CircleCI"></a>
   <a><img src="https://img.shields.io/david/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Dependencies"></a>
   <a href="https://www.npmjs.com/package/cyberpoints"><img src="https://img.shields.io/npm/dt/cyberpoints.svg?maxAge=3600&style=flat-square" alt="NPM downloads" /></a>
   <a><img src="https://img.shields.io/github/issues/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Issues"></a>
