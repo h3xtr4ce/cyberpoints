@@ -1,0 +1,49 @@
+{
+  "name": "cyberpoints",
+  "version": "2.0.0",
+  "description": "Awesome Endpoints For Developers",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest test/*.test.js",
+    "lint": "eslint src *.js",
+    "lint:fix": "eslint --fix src"
+  },
+  "keywords": [
+    "wow",
+    "world of warcraft",
+    "api",
+    "wow api",
+    "blizzard",
+    "blizzard api",
+    "diablo",
+    "diablo api",
+    "sc2",
+    "starcraft",
+    "starcraft api",
+    "hearthstone",
+    "hearthstone api"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "jest": "^24.9.0"
+  },
+  "engines": {
+    "node": ">=10.16.3"
+  },
+  "homepage": "https://github.com/kendinikertenkelebek/cyberpoints#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendinikertenkelebek/cyberpoints.git",
+    "bugs": {
+      "url": "https://github.com/kendinikertenkelebek/cyberpoints/issues"
+    }
+  },
+  "author": "Yankı Küçük <kendinikertenkelebek@me.com> (https://github.com/kendinikertenkelebek)",
+  "contributors": [
+    "Yankı Küçük <kendinikertenkelebek@me.com>"
+  ],
+  "license": "Apache-2.0"
+}

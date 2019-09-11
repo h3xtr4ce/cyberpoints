@@ -1,0 +1,22 @@
+# Packages
+node_modules/
+yarn.lock
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.circleci/
+.github/
+.vscode/
+test/
+docs/
+.tmp/
+jest.config.js
+
+# NPM ignore
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore

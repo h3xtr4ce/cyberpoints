@@ -1,0 +1,4 @@
+## Ignored Files
+test/
+node_modules/
+jest.config.js
