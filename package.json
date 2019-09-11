@@ -4,7 +4,7 @@
   "description": "Awesome Endpoints For Developers",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest test/*.test.js",
+    "test": "jest test/**/*.test.js",
     "lint": "eslint src *.js",
     "lint:fix": "eslint --fix src"
   },
