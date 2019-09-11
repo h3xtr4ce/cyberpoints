@@ -6,14 +6,14 @@
 <h4 align="center">Awesome Endpoints For Developers</h4>
 <p align="center">
   <a><img src="https://img.shields.io/circleci/build/github/kendinikertenkelebek/cyberpoints/master?style=flat-square" alt="CircleCI"></a>
-  <a><img src="https://img.shields.io/david/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Dependencies"></a>
+  <a><img src="https://badges.greenkeeper.io/kendinikertenkelebek/cyberpoints.svg?style=flat-square" alt="Greenkeeper"></a>
   <a href="https://www.npmjs.com/package/cyberpoints"><img src="https://img.shields.io/npm/dt/cyberpoints.svg?maxAge=3600&style=flat-square" alt="NPM downloads" /></a>
   <a><img src="https://img.shields.io/github/issues/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Issues"></a>
-  <a><img src="https://img.shields.io/github/package-json/v/kendinikertenkelebek/cyberpoints/master?color=red&style=flat-square" alt="Version"></a>
+  <a><img src="https://img.shields.io/github/stars/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Stars"></a>
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/github/languages/code-size/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Code Size"></a>
-  <a><img src="https://img.shields.io/github/stars/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Stars"></a>
+  <a><img src="https://img.shields.io/github/package-json/v/kendinikertenkelebek/cyberpoints/master?color=red&style=flat-square" alt="Version"></a>
   <a><img src="https://img.shields.io/github/contributors/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Contributors"></a>
   <a><img src="https://img.shields.io/github/license/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Licance"></a>
 </p>
@@ -23,7 +23,7 @@
 
 # About
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) [![Greenkeeper badge](https://badges.greenkeeper.io/kendinikertenkelebek/cyberpoints.svg)](https://greenkeeper.io/)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 **cyberpoints** was developing for _CyberEngine_. And now, she is **open source**! She will generate endpoint links for make an request. All validation process is done by **cyberpoints**.
 If you're used correct values, returns an request link. Otherwise returns 'undefined'. This method saves your request limits and time! Also cyberpoints is a powerful Node.JS module that allows you to interact with the API's very easily. Usability, consistency, and performance are key focuses of cyberpoints, and it also has nearly 100% coverage of the listed API's. It receives new features shortly after they arrive in the API's.
