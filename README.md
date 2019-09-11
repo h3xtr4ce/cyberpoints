@@ -6,14 +6,14 @@
 <h4 align="center">Awesome Endpoints For Developers</h4>
 <p align="center">
   <a><img src="https://img.shields.io/circleci/build/github/kendinikertenkelebek/cyberpoints/master?style=flat-square" alt="CircleCI"></a>
-  <a><img src="https://img.shields.io/david/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Dependencies"></a>
+  <a><img src="https://badges.greenkeeper.io/kendinikertenkelebek/cyberpoints.svg?style=flat-square" alt="Greenkeeper"></a>
   <a href="https://www.npmjs.com/package/cyberpoints"><img src="https://img.shields.io/npm/dt/cyberpoints.svg?maxAge=3600&style=flat-square" alt="NPM downloads" /></a>
   <a><img src="https://img.shields.io/github/issues/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Issues"></a>
-  <a><img src="https://img.shields.io/github/package-json/v/kendinikertenkelebek/cyberpoints/master?color=red&style=flat-square" alt="Version"></a>
+  <a><img src="https://img.shields.io/github/stars/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Stars"></a>
 </p>
 <p align="center">
   <a><img src="https://img.shields.io/github/languages/code-size/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Code Size"></a>
-  <a><img src="https://img.shields.io/github/stars/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Stars"></a>
+  <a><img src="https://img.shields.io/github/package-json/v/kendinikertenkelebek/cyberpoints/master?color=red&style=flat-square" alt="Version"></a>
   <a><img src="https://img.shields.io/github/contributors/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Contributors"></a>
   <a><img src="https://img.shields.io/github/license/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Licance"></a>
 </p>
