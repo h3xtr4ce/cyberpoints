@@ -23,6 +23,16 @@
     "hearthstone",
     "hearthstone api"
   ],
+  "greenkeeper": {
+    "prTitles": {
+      "initialPR": "Update dependencies to enable Greenkeeper!",
+      "initialPrBadge": "Add badge to enable Greenkeeper!",
+      "initialPrBadgeOnly": "Add Greenkeeper badge!",
+      "initialSubgroupPR": "Update dependencies for ${group}!",
+      "basicPR": "Update ${dependency} to the latest!",
+      "groupPR": "Update ${dependency} in group ${group} to the latest!"
+    }
+  },
   "dependencies": {
     "chalk": "^2.4.2"
   },
