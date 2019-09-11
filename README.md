@@ -10,6 +10,8 @@
   <a href="https://www.npmjs.com/package/cyberpoints"><img src="https://img.shields.io/npm/dt/cyberpoints.svg?maxAge=3600&style=flat-square" alt="NPM downloads" /></a>
   <a><img src="https://img.shields.io/github/issues/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Issues"></a>
   <a><img src="https://img.shields.io/github/package-json/v/kendinikertenkelebek/cyberpoints/master?color=red&style=flat-square" alt="Version"></a>
+</p>
+<p align="center">
   <a><img src="https://img.shields.io/github/languages/code-size/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Code Size"></a>
   <a><img src="https://img.shields.io/github/stars/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Stars"></a>
   <a><img src="https://img.shields.io/github/contributors/kendinikertenkelebek/cyberpoints?style=flat-square" alt="Contributors"></a>
