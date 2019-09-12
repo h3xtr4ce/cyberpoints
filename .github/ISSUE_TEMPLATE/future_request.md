@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature Request
 about: Request a new feature that cyberpoints is missing
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Report incorrect or unexpected behavior of cyberpoints
 ---
 
