@@ -33,6 +33,12 @@
   "engines": {
     "node": ">=10.16.3"
   },
+  "files": [
+    "src/",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
   "greenkeeper": {
     "prTitles": {
       "initialPR": "Update dependencies to enable Greenkeeper!",

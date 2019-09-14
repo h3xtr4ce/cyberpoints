@@ -2,9 +2,11 @@
 
 exports.Defaults = {
   region: 'eu',
+  locale: 'en_GB',
   key: null,
   secret: null,
   token: null,
+  debug: false,
 };
 
 exports.ErrorTexts = {
