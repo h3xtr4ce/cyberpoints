@@ -23,16 +23,6 @@
     "hearthstone",
     "hearthstone api"
   ],
-  "greenkeeper": {
-    "prTitles": {
-      "initialPR": "Update dependencies to enable Greenkeeper!",
-      "initialPrBadge": "Add badge to enable Greenkeeper!",
-      "initialPrBadgeOnly": "Add Greenkeeper badge!",
-      "initialSubgroupPR": "Update dependencies for ${group}!",
-      "basicPR": "Update ${dependency} to the latest!",
-      "groupPR": "Update ${dependency} in group ${group} to the latest!"
-    }
-  },
   "dependencies": {
     "chalk": "^2.4.2"
   },
@@ -42,6 +32,16 @@
   },
   "engines": {
     "node": ">=10.16.3"
+  },
+  "greenkeeper": {
+    "prTitles": {
+      "initialPR": "Update dependencies to enable Greenkeeper!",
+      "initialPrBadge": "Add badge to enable Greenkeeper!",
+      "initialPrBadgeOnly": "Add Greenkeeper badge!",
+      "initialSubgroupPR": "Update dependencies for ${group}!",
+      "basicPR": "Update ${dependency} to the latest!",
+      "groupPR": "Update ${dependency} in group ${group} to the latest!"
+    }
   },
   "homepage": "https://github.com/kendinikertenkelebek/cyberpoints#readme",
   "repository": {
