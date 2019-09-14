@@ -55,6 +55,21 @@ or
 $ yarn add cyberpoints
 ```
 
+### Configuration File
+
+Default configurations are listed below. 
+
+```json
+{
+  "region": "eu",
+  "locale": "en_GB",
+  "key": "",
+  "secret": "",
+  "token": "",
+  "debug": false
+}
+```
+
 ### Usage
 
 ```js
@@ -90,14 +105,20 @@ _cyberpoints_ uses a number of open source projects to work properly:
 
 And of course _cyberpoints_ itself is open source with a [public repository][repository] on _GitHub_.
 
-### Plugins
+### Dependencies
 
-_cyberpoints_ is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+_cyberpoints_ is currently extended with the following dependencies for high user experience. Instructions on how to use them in your own application are linked below.
 
 | Plugin      | README                                    |
 | ----------- | ----------------------------------------- |
-| Eslint      | [plugins/eslint/README.md][ple]           |
-| Jest        | [plugins/jest/README.md][plj]             |
+| Chalk       | [dependencies/chalk/README.md][plc]       |
+
+### dev-Dependencies
+
+| Plugin      | README                                    |
+| ----------- | ----------------------------------------- |
+| Eslint      | [dev-dependencies/eslint/README.md][ple]  |
+| Jest        | [dev-dependencies/jest/README.md][plj]    |
 
 ### Semantic Versioning
 
@@ -129,6 +150,7 @@ And you can see also all contributors [here][contributors].
 [node.js]: http://nodejs.org
 [vscode]: https://code.visualstudio.com/insiders/
 [repository]: https://github.com/kendinikertenkelebek/cyberpoints
+[plc]: https://github.com/chalk/chalk/blob/master/readme.md
 [plj]: https://github.com/facebook/jest/blob/master/README.md
 [ple]: https://github.com/eslint/eslint/blob/master/README.md
 [semver]: https://semver.org
