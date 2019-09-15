@@ -34,10 +34,7 @@ module.exports = class Util {
       if (!given.secret) {
         Util._makeError(ErrorTexts.noSecret);
       }
-      if (!given.token) {
-        Util._makeError(ErrorTexts.noToken);
-      }
-      if (given.key && given.secret && given.token) {
+      if (given.key && given.secret) {
         Util._makeSuccess(SuccessTexts.options);
       }
     }
