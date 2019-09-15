@@ -1,4 +1,5 @@
 'use strict';
+/* eslint-disable max-len */
 
 exports.Endpoints = {
   Community({ root, token, locale }) {
@@ -78,7 +79,7 @@ exports.Endpoints = {
         Abilities: abilityId => `${root}/wow/pet/ability/${abilityId}?locale=${locale}&access_token=${token}`,
         Species: speciesId => `${root}/wow/pet/species/${speciesId}?locale=${locale}&access_token=${token}`,
         Stats: (speciesId, level, breedId, qualityId) =>
-          `${root}/wow/pet/stats/${speciesId}?level=${level}&breedId=${breedId}&qualityId=${qualityId}&locale=${locale}&access_token=${token}`, // eslint-disable-line max-len
+          `${root}/wow/pet/stats/${speciesId}?level=${level}&breedId=${breedId}&qualityId=${qualityId}&locale=${locale}&access_token=${token}`,
       },
       Pvp: bracket => `${root}/wow/leaderboard/${bracket}?locale=e${locale}&access_token=${token}`,
       Quest: questId => `${root}/wow/quest/${questId}?locale=${locale}&access_token=${token}`,
