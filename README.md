@@ -63,9 +63,8 @@ Default configurations are listed below.
 {
   "region": "eu",
   "locale": "en_GB",
-  "key": "",
-  "secret": "",
-  "token": "",
+  "key": null,
+  "secret": null,
   "debug": false
 }
 ```
