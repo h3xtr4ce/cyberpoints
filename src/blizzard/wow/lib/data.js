@@ -107,4 +107,3 @@ exports.Endpoints = {
     };
   },
 };
-
