@@ -1,7 +1,7 @@
 {
     "debug": true,
     "region": "us",
-    "key": "superSecretKey",
+    "id": "superSecretKey",
     "secret": "superSecretSecretWTF",
     "token": "anotherSuperSecretThing"
 }

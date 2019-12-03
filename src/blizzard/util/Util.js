@@ -28,13 +28,13 @@ module.exports = class Util {
     }
 
     if (given.debug) {
-      if (!given.key) {
-        Util._makeError(ErrorTexts.noKey);
+      if (!given.id) {
+        Util._makeError(ErrorTexts.noClientID);
       }
       if (!given.secret) {
-        Util._makeError(ErrorTexts.noSecret);
+        Util._makeError(ErrorTexts.noClientSecret);
       }
-      if (given.key && given.secret) {
+      if (given.id && given.secret) {
         Util._makeSuccess(SuccessTexts.options);
       }
     }

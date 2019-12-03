@@ -3,7 +3,7 @@
 exports.Defaults = {
   region: 'eu',
   locale: 'en_GB',
-  key: null,
+  id: null,
   secret: null,
   token: null,
   debug: false,
@@ -49,8 +49,8 @@ exports.Roots = [
 ];
 
 exports.ErrorTexts = {
-  noKey: 'Options must be have \'key\' property!',
-  noSecret: 'Options must be have \'secret\' property!',
+  noClientID: 'Options must be have \'ID\' property!',
+  noClientSecret: 'Options must be have \'secret\' property!',
   noToken: 'Options must be have \'token\' property!',
 };
 
